@@ -2,9 +2,9 @@
   "name": "quicknotes-backend",
   "version": "1.0.0",
   "type": "module",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
@@ -17,3 +17,4 @@
     "mongoose": "^8.16.3"
   }
 }
+
